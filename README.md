@@ -26,7 +26,7 @@ It's pretty self-explanatory… check out the examples below 😉
 
 **City detail: true**
 ```js
-const { City } = require("@kadoresmi00/turkey-cities-countie")
+const { City } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new City({ detail: true });
 let x = kado.allData()
@@ -68,7 +68,7 @@ console.log(x)
 **City detail: false**
 
 ```js
-const { City } = require("@kadoresmi00/turkey-cities-countie")
+const { City } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new City({ detail: false }); // 
 let x = kado.allData()
@@ -104,7 +104,7 @@ console.log(x)
 **City Search detail: false**
 
 ```js
-const { City } = require("@kadoresmi00/turkey-cities-countie")
+const { City } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new City({ detail: false }); 
 let x = kado.findCity('Ankara')
@@ -134,7 +134,7 @@ console.log(x)
 **City Search detail: true**
 
 ```js
-const { City } = require("@kadoresmi00/turkey-cities-countie")
+const { City } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new City({ detail: true }); 
 let x = kado.findCity('Ankara')
@@ -172,7 +172,7 @@ console.log(x)
 **City Number Plate**
 
 ```js
-const { NumberPlate } = require("@kadoresmi00/turkey-cities-countie")
+const { NumberPlate } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new NumberPlate(); 
 let x = kado.allData()
@@ -193,7 +193,7 @@ console.log(x)
 **City Number Plate Search**
 
 ```js
-const { NumberPlate } = require("@kadoresmi00/turkey-cities-countie")
+const { NumberPlate } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new NumberPlate(); 
 let x = kado.findNumber(34) // number
@@ -207,7 +207,7 @@ console.log(x)
 **Region Info**
 
 ```js
-const { Region } = require("@kadoresmi00/turkey-cities-countie")
+const { Region } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new Region(); 
 let x = kado.allData() 
@@ -240,7 +240,7 @@ console.log(x)
 **Region Info Search**
 
 ```js
-const { Region } = require("@kadoresmi00/turkey-cities-countie")
+const { Region } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new Region(); 
 let x = kado.find("Akdeniz")
@@ -261,7 +261,7 @@ console.log(x)
 **City - Region Info Search**
 
 ```js
-const { Region } = require("@kadoresmi00/turkey-cities-countie")
+const { Region } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new Region(); 
 let x = kado.findCity("İstanbul")
@@ -275,7 +275,7 @@ console.log(x)
 **City İnfo**
 
 ```js
-const { CityInfo } = require("@kadoresmi00/turkey-cities-countie")
+const { CityInfo } = require("@kadoresmi00/turkey-cities-counties")
 
 const kado = new CityInfo(); 
 let x = kado.findCityInfo("Ankara")
@@ -292,4 +292,4 @@ console.log(x)
 
 ## NPM
 **Link**
-- [Click](https://www.npmjs.com/package/@kadoresmi00/turkey-cities-countie)
+- [Click](https://www.npmjs.com/package/@kadoresmi00/turkey-cities-counties)
