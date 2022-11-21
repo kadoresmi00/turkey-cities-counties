@@ -1,0 +1,24 @@
+{
+  "name": "@kadoresmi00/turkey-cities-countie",
+  "version": "1.0.0",
+  "description": "Turkey cities and counties",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "turkey",
+    "cities",
+    "counties",
+    "districts",
+    "il",
+    "ilce",
+    "mahalle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadoresmi00/turkey-cities-countie.git"
+  },
+  "author": "kadoresmi00",
+  "license": "ISC"
+}
