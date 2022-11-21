@@ -1,6 +1,6 @@
 {
-  "name": "@kadoresmi00/turkey-cities-countie",
-  "version": "1.0.0",
+  "name": "@kadoresmi00/turkey-cities-counties",
+  "version": "1.0.1",
   "description": "Turkey cities and counties",
   "main": "index.js",
   "scripts": {
