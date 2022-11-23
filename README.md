@@ -11,7 +11,7 @@ npm i @kadoresmi00/turkey-cities-counties
 ```
 
 <a href="https://www.npmjs.com/package/@kadoresmi00/general-filter">![GitHub package.json version](https://img.shields.io/github/package-json/v/kadoresmi00/turkey-cities-counties?style=for-the-badge)</a>
-<a href="https://www.npmjs.com/package/@kadoresmi00/general-filter">![npm](https://img.shields.io/npm/dw/turkey-cities-counties?style=for-the-badge)</a>
+<a href="https://www.npmjs.com/package/@kadoresmi00/general-filter">![npm](https://img.shields.io/npm/dw/@kadoresmi00/turkey-cities-counties?style=for-the-badge)</a>
 
 **Features:**
 
